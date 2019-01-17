@@ -1,2 +1,2 @@
 # hello-world
-ELEN 239B Lab 0
+step 3 make and commit changes
